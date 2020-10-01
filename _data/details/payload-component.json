@@ -2,9 +2,9 @@
   "name": "payload-component",
   "full_name": "o19s/payload-component",
   "description": "Solr component that surfaces payloads for matching terms",
-  "updated_at": "2020-09-18T14:25:33Z",
-  "stargazers_count": 2,
-  "watchers_count": 2,
+  "updated_at": "2020-09-28T21:12:39Z",
+  "stargazers_count": 4,
+  "watchers_count": 4,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -19,6 +19,6 @@
     "html_url": "https://github.com/o19s"
   },
   "statuses": [],
-  "total_download_count": 48,
-  "latest_download_count": 46
+  "total_download_count": 49,
+  "latest_download_count": 47
 }
