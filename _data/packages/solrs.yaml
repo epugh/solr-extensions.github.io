@@ -1,0 +1,10 @@
+name: Solrs
+category: utilities
+description: async solr client for java/scala
+installation: Client Package
+url: https://github.com/inoio/solrs
+license: Apache License v2
+license_url: http://choosealicense.com/licenses/apache-2.0/
+pros:
+    - Async, Scala native
+    - SolrCloud aware
